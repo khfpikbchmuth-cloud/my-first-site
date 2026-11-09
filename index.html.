@@ -57,8 +57,8 @@
 </head>
 <body>
     <div class="box">
-        <!-- این خط عکس شما را نشان می دهد -->
-        <img src="profile.jpg" alt="نرگس" class="profile-pic">
+        <!-- عکس نرگس اینجاست -->
+        <img src="https://uploadkon.ir/uploads/cb6d09_26Screenshot-۲۰۲۶-۱۱-۰۹-۰۹-۲۲-۰۲-۵۴۲-com-miui-gallery-edit.jpg" alt="نرگس" class="profile-pic">
         
         <h1>نرگس 🌸</h1>
         <p>
@@ -69,4 +69,4 @@
         <a href="#" class="btn">ارتباط با من</a>
     </div>
 </body>
-    </html>
+</html>
